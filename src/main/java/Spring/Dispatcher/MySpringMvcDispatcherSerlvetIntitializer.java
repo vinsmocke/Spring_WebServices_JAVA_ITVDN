@@ -1,4 +1,4 @@
-package Spring.lesson3.Task1.config;
+package Spring.Dispatcher;
 
 import org.springframework.web.filter.HiddenHttpMethodFilter;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
